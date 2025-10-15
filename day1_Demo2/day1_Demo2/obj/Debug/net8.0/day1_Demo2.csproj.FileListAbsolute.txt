@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\day1_Demo2\day1_Demo2\bin\Debug\net8.0\day1_Demo2.exe
+C:\Users\DELL\source\repos\day1_Demo2\day1_Demo2\bin\Debug\net8.0\day1_Demo2.deps.json
+C:\Users\DELL\source\repos\day1_Demo2\day1_Demo2\bin\Debug\net8.0\day1_Demo2.runtimeconfig.json
+C:\Users\DELL\source\repos\day1_Demo2\day1_Demo2\bin\Debug\net8.0\day1_Demo2.dll
+C:\Users\DELL\source\repos\day1_Demo2\day1_Demo2\bin\Debug\net8.0\day1_Demo2.pdb
+C:\Users\DELL\source\repos\day1_Demo2\day1_Demo2\obj\Debug\net8.0\day1_Demo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\day1_Demo2\day1_Demo2\obj\Debug\net8.0\day1_Demo2.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\day1_Demo2\day1_Demo2\obj\Debug\net8.0\day1_Demo2.AssemblyInfo.cs
+C:\Users\DELL\source\repos\day1_Demo2\day1_Demo2\obj\Debug\net8.0\day1_Demo2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\day1_Demo2\day1_Demo2\obj\Debug\net8.0\day1_Demo2.dll
+C:\Users\DELL\source\repos\day1_Demo2\day1_Demo2\obj\Debug\net8.0\refint\day1_Demo2.dll
+C:\Users\DELL\source\repos\day1_Demo2\day1_Demo2\obj\Debug\net8.0\day1_Demo2.pdb
+C:\Users\DELL\source\repos\day1_Demo2\day1_Demo2\obj\Debug\net8.0\day1_Demo2.genruntimeconfig.cache
+C:\Users\DELL\source\repos\day1_Demo2\day1_Demo2\obj\Debug\net8.0\ref\day1_Demo2.dll

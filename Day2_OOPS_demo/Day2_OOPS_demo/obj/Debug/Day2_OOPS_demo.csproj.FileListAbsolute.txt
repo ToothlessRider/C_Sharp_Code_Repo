@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\Day2_OOPS_demo\Day2_OOPS_demo\bin\Debug\Day2_OOPS_demo.exe.config
+C:\Users\DELL\source\repos\Day2_OOPS_demo\Day2_OOPS_demo\bin\Debug\Day2_OOPS_demo.exe
+C:\Users\DELL\source\repos\Day2_OOPS_demo\Day2_OOPS_demo\bin\Debug\Day2_OOPS_demo.pdb
+C:\Users\DELL\source\repos\Day2_OOPS_demo\Day2_OOPS_demo\obj\Debug\Day2_OOPS_demo.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Day2_OOPS_demo\Day2_OOPS_demo\obj\Debug\Day2_OOPS_demo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Day2_OOPS_demo\Day2_OOPS_demo\obj\Debug\Day2_OOPS_demo.exe
+C:\Users\DELL\source\repos\Day2_OOPS_demo\Day2_OOPS_demo\obj\Debug\Day2_OOPS_demo.pdb
+C:\Users\DELL\source\repos\Day2_OOPS_demo\Day2_OOPS_demo\obj\Debug\Day2_OOPS_demo.exe.config

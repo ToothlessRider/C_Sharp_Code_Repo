@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\E_Comm_demo\E_Comm_demo\obj\Debug\E_Comm_demo.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\E_Comm_demo\E_Comm_demo\obj\Debug\E_Comm_demo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\E_Comm_demo\E_Comm_demo\bin\Debug\E_Comm_demo.exe.config
+C:\Users\DELL\source\repos\E_Comm_demo\E_Comm_demo\bin\Debug\E_Comm_demo.exe
+C:\Users\DELL\source\repos\E_Comm_demo\E_Comm_demo\bin\Debug\E_Comm_demo.pdb
+C:\Users\DELL\source\repos\E_Comm_demo\E_Comm_demo\obj\Debug\E_Comm_demo.exe
+C:\Users\DELL\source\repos\E_Comm_demo\E_Comm_demo\obj\Debug\E_Comm_demo.pdb

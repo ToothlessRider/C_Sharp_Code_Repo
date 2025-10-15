@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\Day2_Demo2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAB1DDB-D2A4-43C3-83AD-BB274387CB45}|Day2_Demo2\\Day2_Demo2.csproj|C:\\Users\\DELL\\source\\repos\\Day2_Demo2\\day2_demo2\\collectiondemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAB1DDB-D2A4-43C3-83AD-BB274387CB45}|Day2_Demo2\\Day2_Demo2.csproj|solutionrelative:day2_demo2\\collectiondemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAB1DDB-D2A4-43C3-83AD-BB274387CB45}|Day2_Demo2\\Day2_Demo2.csproj|c:\\users\\dell\\source\\repos\\day2_demo2\\day2_demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAB1DDB-D2A4-43C3-83AD-BB274387CB45}|Day2_Demo2\\Day2_Demo2.csproj|solutionrelative:day2_demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CollectionDemo.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Day2_Demo2\\Day2_Demo2\\CollectionDemo.cs",
+              "RelativeDocumentMoniker": "Day2_Demo2\\CollectionDemo.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Day2_Demo2\\Day2_Demo2\\CollectionDemo.cs",
+              "RelativeToolTip": "Day2_Demo2\\CollectionDemo.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwDQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T12:35:43.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Day2_Demo2\\Day2_Demo2\\Program.cs",
+              "RelativeDocumentMoniker": "Day2_Demo2\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Day2_Demo2\\Day2_Demo2\\Program.cs",
+              "RelativeToolTip": "Day2_Demo2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T12:35:29.584Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

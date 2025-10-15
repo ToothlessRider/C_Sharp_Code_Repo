@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\Demo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18C8AC06-3E95-4D90-B1EC-DE24E07706F1}|Demo1\\Demo1.csproj|C:\\Users\\DELL\\source\\repos\\Demo1\\demo1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C8AC06-3E95-4D90-B1EC-DE24E07706F1}|Demo1\\Demo1.csproj|solutionrelative:demo1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C8AC06-3E95-4D90-B1EC-DE24E07706F1}|Demo1\\Demo1.csproj|C:\\Users\\DELL\\source\\repos\\Demo1\\demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C8AC06-3E95-4D90-B1EC-DE24E07706F1}|Demo1\\Demo1.csproj|solutionrelative:demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C8AC06-3E95-4D90-B1EC-DE24E07706F1}|Demo1\\Demo1.csproj|c:\\users\\dell\\source\\repos\\demo1\\demo1\\arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C8AC06-3E95-4D90-B1EC-DE24E07706F1}|Demo1\\Demo1.csproj|solutionrelative:demo1\\arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Demo1\\Demo1\\Employee.cs",
+              "RelativeDocumentMoniker": "Demo1\\Employee.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Demo1\\Demo1\\Employee.cs",
+              "RelativeToolTip": "Demo1\\Employee.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T06:43:29.817Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "arrays.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Demo1\\Demo1\\arrays.cs",
+              "RelativeDocumentMoniker": "Demo1\\arrays.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Demo1\\Demo1\\arrays.cs",
+              "RelativeToolTip": "Demo1\\arrays.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T10:03:37.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Demo1\\Demo1\\Program.cs",
+              "RelativeDocumentMoniker": "Demo1\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Demo1\\Demo1\\Program.cs",
+              "RelativeToolTip": "Demo1\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwC0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T06:21:24.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\Day3.Demo1\Day3.Demo1\bin\Debug\Day3.Demo1.exe.config
+C:\Users\DELL\source\repos\Day3.Demo1\Day3.Demo1\bin\Debug\Day3.Demo1.exe
+C:\Users\DELL\source\repos\Day3.Demo1\Day3.Demo1\bin\Debug\Day3.Demo1.pdb
+C:\Users\DELL\source\repos\Day3.Demo1\Day3.Demo1\obj\Debug\Day3.Demo1.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Day3.Demo1\Day3.Demo1\obj\Debug\Day3.Demo1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Day3.Demo1\Day3.Demo1\obj\Debug\Day3.Demo1.exe
+C:\Users\DELL\source\repos\Day3.Demo1\Day3.Demo1\obj\Debug\Day3.Demo1.pdb
+C:\Users\DELL\source\repos\Day3.Demo1\Day3.Demo1\obj\Debug\Day3.Demo1.exe.config
